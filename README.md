@@ -3,7 +3,7 @@
 ## Usage
 
 1. Run the Python API `main.py` file.
-2. Run this replit.
+2. Run the `server.js`.
 3. Wait about 20-40 seconds for the KMeans model to complete. It should indicate completion in the console of the other replit.
 4. In Messenger, send a message to our chatbot like 'Hey', 'Hi', 'hello'...
 5. Follow the instructions; it should be clear how to proceed. To log in to Spotify, you can use your account if you have one or create a new one
